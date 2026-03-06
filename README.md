@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Barath 👋<br>- 🎓 AI & Data Science Student  <br>- 🐧 Linux Enthusiast (Arch + Hyprland)  <br>- 💻 looking to collaborate on open source projects & Developments<br>- 🚀 Always learning and building new things<br>-🔭 I’m currently working on a startup-project( Elabs)<br>-🤝 I’m looking for help with placement guidance <br>-🌱 I’m currently learning Full-Stack web development <br>-💬 Ask me about the depth of coding <br>
+# Hi, I'm Barath 👋<br>- 🎓 AI & Data Science Student  <br>- 🐧 Linux Enthusiast (Arch + Hyprland)  <br>- 🚀 Always learning and building new things<br>-🔭 I’m currently working on a startup-project( Elabs)<br>-🤝 I’m looking for help with placement guidance <br>-🌱 I’m currently learning Full-Stack web development <br>-💬 Ask me about the depth of coding <br>- 💻 looking to collaborate on open source projects & Developments
 
 
 ## 🌐 Socials:
