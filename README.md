@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\JD\Pictures\banner.svg" alt="Barath N Banner" width="100%">
+  <img src="./assets/banner.gif" alt="Barath N Banner" width="100%">
 </p>
 
 <p align="center">
