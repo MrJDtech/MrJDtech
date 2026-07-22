@@ -2,12 +2,6 @@
   <img src="C:\Users\JD\Pictures\banner.svg" alt="Barath N Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Barath N</h1>
-
-<h3 align="center">
-AI & Data Science Student • AI Engineer in Progress • Full Stack Developer
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Building+Modern+Web+Applications;Always+Learning+🚀" alt="Typing SVG"/>
 </p>
