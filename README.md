@@ -1,65 +1,111 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Barath N Banner" width="100%">
+  <img src="./assets/Banner.gif" width="100%" alt="Banner"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Barath</h1>
 
----
-
-## 👨‍💻 About Me
-
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 St. Joseph's Institute of Technology, Chennai
-
-💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**.
-
-🚀 I enjoy building intelligent applications, exploring new technologies, and solving real-world problems through software.
-
----
-
-## 🛠️ Tech Stack
+<h3 align="center">
+AI & Data Science Student • Full Stack Developer • ML Enthusiast
+</h3>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,react,nextjs,ts,tailwind,nodejs,mysql,git,github,linux,vscode,pytorch,tensorflow&perline=8"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+React;Always+Learning+Something+New+🚀" />
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-| Project | Description |
-|---------|-------------|
-| 🫀 **BiomedCLIP Chest X-ray Classification** | Deep Learning model for multi-label disease detection |
-| 🤖 **Brown AI Assistant** | AI desktop assistant with speech & face recognition |
-| 🌐 **Portfolio Website** | Modern responsive portfolio built with Next.js |
-| 🎮 **Discord Gaming Community** | Gaming community & bot development |
+🎓 **B.Tech Artificial Intelligence & Data Science**
+
+🏫 St. Joseph's Institute of Technology, Chennai
+
+💻 Passionate about
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full Stack Development
+- Java Development
+
+🌱 Currently Learning
+
+- Deep Learning
+- MLOps
+- Cloud
+- System Design
+
+⚡ Fun Fact
+
+> I love building intelligent applications that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/barathn10">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:barathraj2315@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://discord.gg/drtEezc9c">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,react,firebase,mysql,git,github,vscode,arduino&perline=6"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrJDtech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJDtech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrJDtech&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 Most Used Languages
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=MrJDtech&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJDtech&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrJDtech&theme=algolia&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
 
 <p align="center">
 
@@ -69,31 +115,44 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrJDtech&theme=tokyonight&column=4&no-frame=true&no-bg=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 Brown AI | Personal AI Desktop Assistant |
+| 🩺 BiomedCLIP | Chest X-ray Disease Classification |
+| 📚 E-Learning Dashboard | Full Stack Learning Platform |
+| 🎮 Minecraft Tools | Gaming Utilities & Bots |
+
+---
+
+# 📚 Currently Working On
+
+✔ AI Desktop Assistant
+
+✔ Machine Learning Projects
+
+✔ Java Development
+
+✔ Open Source
+
+---
+
+# 📊 Profile Views
 
 <p align="center">
 
-<a href="https://github.com/MrJDtech">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:barathraj2315@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=MrJDtech&style=for-the-badge"/>
 
 </p>
 
@@ -101,12 +160,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MrJDtech&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
+⭐ From <b>Barath</b>
 
 </p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
