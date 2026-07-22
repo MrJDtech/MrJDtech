@@ -2,9 +2,6 @@
   <img src="./assets/banner.gif" alt="Barath N Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Building+Modern+Web+Applications;Always+Learning+🚀" alt="Typing SVG"/>
-</p>
 
 ---
 
